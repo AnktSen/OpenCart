@@ -1,0 +1,99 @@
+2024-08-03 11:27:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:30:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:31:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:33:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:35:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:35:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml
+
+2024-08-03 11:36:04 INFO  TC001_AccountRegistrationTest:17 - ##################  TC001AccountRegistrationTest  ####################### 
+2024-08-03 11:36:04 INFO  TC001_AccountRegistrationTest:23 - Clicking on MyAcct link...
+2024-08-03 11:36:05 INFO  TC001_AccountRegistrationTest:25 - Clicking on Register link...
+2024-08-03 11:36:05 INFO  TC001_AccountRegistrationTest:29 - Providing Customer details.....
+2024-08-03 11:36:09 INFO  TC001_AccountRegistrationTest:60 - ##################  Finished TC001AccountRegistrationTest  ####################### 
+2024-08-03 11:36:12 INFO  TC002_LoginTest:16 - ##################  TC002_AccountRegistrationTest  ####################### 
+2024-08-03 11:36:12 INFO  TC002_LoginTest:20 - Clicked on Home Page
+2024-08-03 11:36:13 INFO  TC002_LoginTest:27 - On Login Page
+2024-08-03 11:36:18 INFO  TC002_LoginTest:49 - ##################  Finished TC002_AccountRegistrationTest  ####################### 
+2024-08-03 11:38:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml"
+2024-08-03 11:38:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Grouping.xml
+
+2024-08-03 11:38:49 INFO  TC001_AccountRegistrationTest:17 - ##################  TC001AccountRegistrationTest  ####################### 
+2024-08-03 11:38:49 INFO  TC001_AccountRegistrationTest:23 - Clicking on MyAcct link...
+2024-08-03 11:38:50 INFO  TC001_AccountRegistrationTest:25 - Clicking on Register link...
+2024-08-03 11:38:50 INFO  TC001_AccountRegistrationTest:29 - Providing Customer details.....
+2024-08-03 11:38:56 INFO  TC001_AccountRegistrationTest:60 - ##################  Finished TC001AccountRegistrationTest  ####################### 
+2024-08-03 11:38:59 INFO  TC002_LoginTest:16 - ##################  TC002_AccountRegistrationTest  ####################### 
+2024-08-03 11:38:59 INFO  TC002_LoginTest:20 - Clicked on Home Page
+2024-08-03 11:38:59 INFO  TC002_LoginTest:27 - On Login Page
+2024-08-03 11:52:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\test-output\testng-failed.xml"
+2024-08-03 11:52:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\test-output\testng-failed.xml
+
+2024-08-03 11:52:37 INFO  TC002_LoginTest:16 - ##################  TC002_AccountRegistrationTest  ####################### 
+2024-08-03 11:52:37 INFO  TC002_LoginTest:20 - Clicked on Home Page
+2024-08-03 11:52:38 INFO  TC002_LoginTest:27 - On Login Page
+2024-08-03 11:52:43 INFO  TC002_LoginTest:49 - ##################  Finished TC002_AccountRegistrationTest  ####################### 
+2024-08-03 15:47:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:47:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 15:49:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:49:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 15:49:15 INFO  TC001_AccountRegistrationTest:17 - ##################  TC001AccountRegistrationTest  ####################### 
+2024-08-03 15:49:16 INFO  TC001_AccountRegistrationTest:23 - Clicking on MyAcct link...
+2024-08-03 15:49:16 INFO  TC001_AccountRegistrationTest:25 - Clicking on Register link...
+2024-08-03 15:49:16 INFO  TC001_AccountRegistrationTest:29 - Providing Customer details.....
+2024-08-03 15:49:20 INFO  TC001_AccountRegistrationTest:60 - ##################  Finished TC001AccountRegistrationTest  ####################### 
+2024-08-03 15:49:23 INFO  TC002_LoginTest:16 - ##################  TC002_AccountRegistrationTest  ####################### 
+2024-08-03 15:49:23 INFO  TC002_LoginTest:20 - Clicked on Home Page
+2024-08-03 15:49:24 INFO  TC002_LoginTest:27 - On Login Page
+2024-08-03 15:49:28 INFO  TC002_LoginTest:49 - ##################  Finished TC002_AccountRegistrationTest  ####################### 
+2024-08-03 15:52:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:52:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 15:53:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:53:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 15:54:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:54:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 15:55:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 15:55:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:02:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 16:02:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:17:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 16:17:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:21:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 16:21:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:24:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 16:24:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:25:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml"
+2024-08-03 16:25:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\EclipseWorkSpace\OpencatV121\Master.xml
+
+2024-08-03 16:25:57 INFO  TC001_AccountRegistrationTest:17 - ##################  TC001AccountRegistrationTest  ####################### 
+2024-08-03 16:25:57 INFO  TC001_AccountRegistrationTest:23 - Clicking on MyAcct link...
+2024-08-03 16:25:58 INFO  TC001_AccountRegistrationTest:25 - Clicking on Register link...
+2024-08-03 16:25:58 INFO  TC001_AccountRegistrationTest:29 - Providing Customer details.....
+2024-08-03 16:26:01 INFO  TC001_AccountRegistrationTest:60 - ##################  Finished TC001AccountRegistrationTest  ####################### 
+2024-08-03 16:26:05 INFO  TC002_LoginTest:16 - ##################  TC002_AccountRegistrationTest  ####################### 
+2024-08-03 16:26:05 INFO  TC002_LoginTest:20 - Clicked on Home Page
+2024-08-03 16:26:06 INFO  TC002_LoginTest:27 - On Login Page
+2024-08-03 16:26:11 INFO  TC002_LoginTest:49 - ##################  Finished TC002_AccountRegistrationTest  ####################### 
